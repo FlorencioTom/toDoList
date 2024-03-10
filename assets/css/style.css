@@ -1,0 +1,12 @@
+.bold{
+    font-weight: bold;
+}
+.bb{
+    padding-top: 10px;
+    padding-bottom:10px;
+    border-bottom: 1px solid #c1c3c4;
+}
+
+.miB{
+    width: 70px;
+}
